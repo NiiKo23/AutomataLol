@@ -1,5 +1,6 @@
 """
-AutomataLol - Services Init
+AutoमataLol - Services Module
+Orquestación de servicios principales
 """
 
 from .lcu_service import lcu_service, get_lcu_service, LCUService, LCUServiceState
